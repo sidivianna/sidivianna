@@ -1,4 +1,4 @@
-### Olá! Sidinei aqui!
+### Olá! Eu sou Sidinei
 📕 Estudando Python
 📘 Estudando Golang
 
