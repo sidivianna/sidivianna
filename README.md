@@ -4,8 +4,8 @@
 
 <div align="inline_block">
   <a href="https://github.com/sidivianna">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=sidivianna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidivianna&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sidivianna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidivianna&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: center"><br>
   <img align="center" alt="Sidi-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
