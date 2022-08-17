@@ -1,6 +1,5 @@
-### Olá! Eu sou Sidinei
-📕 Estudando Python
-📘 Estudando Golang
+### Seja bem vindo! Eu sou Sidinei
+📕 Estudando Python - 📘 Estudando Django
 
 <div align="inline_block">
   <a href="https://github.com/sidivianna">
