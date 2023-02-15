@@ -1,4 +1,5 @@
 <h1 align="center"> Seja bem vindo! Eu sou Sidinei <h1/>
+  <h2 align="center">📕 Estudando Desenvolvimento de jogos em C# e Unity <h2/>
 <h2 align="center">📕 Estudando Python - 📘 Estudando Django <h2/>
 
 <div align="center">
